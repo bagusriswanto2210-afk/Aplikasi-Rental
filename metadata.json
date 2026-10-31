@@ -1,0 +1,6 @@
+{
+  "name": "Outdoor POS",
+  "description": "Sistem POS rental outdoor dengan database SQLite Room, kalkulasi DP otomatis, kalender ketersediaan alat, dan integrasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
